@@ -1,2 +1,2 @@
 # Azure-Admin
-Azure Admin guide01
+Azure Admin guide02
